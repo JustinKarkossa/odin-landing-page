@@ -142,3 +142,39 @@ body {
     font-size: 16px;
     font-weight: 100;
 }
+
+.third-sector {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    max-width: 645px;
+    margin-top: 72px;
+    
+}
+
+.quote-author {
+    margin-left: 455px;
+    margin-top: -50px;
+    margin-bottom: 72px;
+}
+
+
+
+
+
+
+
