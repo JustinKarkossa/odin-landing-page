@@ -172,6 +172,57 @@ body {
     margin-bottom: 72px;
 }
 
+.fourth-secotr {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 14rem 7rem;
+}
+
+.blue-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    flex: 1 1 0;
+    margin: 86px 364px;
+    padding: 16px 82px 16px 82px;
+    border-radius: 8px;
+    
+}
+
+.signup-text {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    
+
+    
+}
+
+.call-title {
+    color: #e5e7eb;
+    margin-bottom: -12px;
+    font-weight: bold;
+
+}
+
+.call-text {
+    color: #e5e7eb;
+    font-size: 16px;
+    
+
+}
+
+.sign-button2 {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid ;
+    padding: 8px 24px;
+    font-weight: bold;
+    border-radius: 8px;
+    border-color: #f9faf8;
+    cursor: pointer;
+}
 
 
 
