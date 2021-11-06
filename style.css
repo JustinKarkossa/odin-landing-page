@@ -208,7 +208,7 @@ body {
 
 .call-text {
     color: #e5e7eb;
-    font-size: 16px;
+    font-size: 14px;
     
 
 }
@@ -224,6 +224,19 @@ body {
     cursor: pointer;
 }
 
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    
+}
+
+.footer-text {
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 10px;
+}
 
 
 
